@@ -25,3 +25,7 @@ To run this project, Python and Jupyter Notebook should be installed. The requir
 
 ## Results  
 The model was trained and tested on the [**Framingham**](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset) dataset, achieving an accuracy of **85%** on test data. Its performance is evaluated using a **confusion matrix** and **classification report** which show precision, recall, and F1-score for each category.
+
+---
+*Presenter:*  Sarayu Alugubelli    
+*AICTE Student ID:*  AINSI_115523
